@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Исаченков](https://up.htmlacademy.ru/javascript/20/user/1216207).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Зрилов](https://htmlacademy.ru/profile/id1045563).
 
 ---
 
